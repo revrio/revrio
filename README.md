@@ -8,18 +8,17 @@
 
 <!-- <img alt="GitHub followers" src="https://img.shields.io/github/followers/Ankit-Agrawal0?label=follow&logo=github&style=flat-square"> -->
 
-![](https://img.shields.io/github/followers/Ankit-Agrawal0?label=follow&logo=github&style=flat-square)
-![GitHub User's stars](https://img.shields.io/github/stars/Ankit-Agrawal0?label=%E2%AD%90GitHub%20stars&style=flat-square)
-![](https://komarev.com/ghpvc/?username=Ankit-Agrawal0&style=flat-square&color=ff69b4)
-<a href="https://discord.gg/qhtrF2Df7E">![Discord](https://img.shields.io/discord/686069011481362462?logo=discord&style=flat-square&label=web%20dev%20community)</a>
+![](https://img.shields.io/github/followers/revrio?label=follow&logo=github&style=flat-square)
+![GitHub User's stars](https://img.shields.io/github/stars/revrio?label=%E2%AD%90GitHub%20stars&style=flat-square)
+![](https://komarev.com/ghpvc/?username=revrio&style=flat-square&color=ff69b4)
 
 </div>
 
-# <h1><a href="https://ankit-agrawal0.github.io/Portfolio/">Ankit Agrawal</a> - Visit my portfolio</h1>
+# <h1><a href="https://revrio.github.io/Portfolio/">Ankit Agrawal</a> - Visit my portfolio</h1>
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ankit-Agrawal0&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" height=160 />
-<img src="https://github-readme-stats.vercel.app/api?username=Ankit-Agrawal0&show_icons=true&theme=radical&layout=compact" alt="Bhavya's Github Stats" height=160 />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=revrio&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" height=160 />
+<img src="https://github-readme-stats.vercel.app/api?username=revrio&show_icons=true&theme=radical&layout=compact" alt="Bhavya's Github Stats" height=160 />
 <p>
 
 ***
@@ -57,7 +56,7 @@
 
 ---
 
-## <img src="/.github/code.gif" width="32" align="left"> See my projects - [Ankit-Agrawal0/projects](https://ankit-agrawal0.github.io/Portfolio/)
+## <img src="/.github/code.gif" width="32" align="left"> See my projects - [revrio/projects](https://revrio.github.io/Portfolio/)
 
 <!-- <div>
  <img align='right' src="/.github/octocat.gif" width="400" alt="octocat">
