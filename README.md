@@ -16,10 +16,10 @@
 
 # <h1><a href="https://revrio.github.io/Portfolio/">Ankit Agrawal</a> - Visit my portfolio</h1>
 
-<p align="left">
+<!-- <p align="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=revrio&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" height=160 />
-<img src="https://github-readme-stats.vercel.app/api?username=revrio&show_icons=true&theme=radical&layout=compact" alt="Bhavya's Github Stats" height=160 />
-<p>
+<img src="https://github-readme-stats.vercel.app/api?username=revrio&show_icons=true&theme=radical&layout=compact" alt="Ankit's Github Stats" height=160 />
+<p> -->
 
 ***
 
@@ -67,8 +67,8 @@
 <p align="left">
 <a href="https://t.me/Ankit160207"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png" width="48"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:ankitagrawal160207@gmail.com"><img src="/.github/icons/email.svg" width="48"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://twitter.com/Ankit160207"><img src="/.github/icons/twitter.svg" width="48"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://discord.gg/qhtrF2Df7E"><img src="/.github/icons/discord.svg" width="54"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<!-- <a href="https://twitter.com/Ankit160207"><img src="/.github/icons/twitter.svg" width="48"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://discord.gg/qhtrF2Df7E"><img src="/.github/icons/discord.svg" width="54"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
 </p>
 <!-- <p align="left">
 <img src="/.github/icons/typescript.svg" width="60"/>
@@ -87,17 +87,3 @@
 <img src="/.github/icons/redux.svg" width="60"/>
 </p> -->
 
-<!--
-**BhavyaCodes/BhavyaCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
